@@ -1,5 +1,6 @@
 # Folder Builder by python
-# โปรแกรม สร้าง โฟเดอร์ 
-1.ใส่ชื่อ 
-2.จำนวนโฟเดอร์ 
-3.ตำแหน่งที่จะวาง
+# Feature
+# 1. Set name 
+# 2. File duplication
+# 3. 3.Choose file location
+
