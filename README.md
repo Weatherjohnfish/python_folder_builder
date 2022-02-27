@@ -1,4 +1,4 @@
-# Folder Builder by python
+# Folder Builder by python ( โปรแกรมสร้างโฟเดอร์ )
 # Feature
 # 1. Set name 
 # 2. File duplication
